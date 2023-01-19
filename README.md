@@ -16,5 +16,7 @@
 </div>
 
   ##
-  
-  ![snake gif](https://github.com/tiagoueda/tiagoueda/blob/output/github-contribution-grid-snake.svg)
+
+Trecho de código que adicionamos no arquivo Readme.md:
+
+![Snake animation](https://github.com/tiagoueda/tiagoueda/blob/output/github-contribution-grid-snake.svg)
