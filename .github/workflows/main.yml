@@ -23,7 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-0 comments on commit 5008ca5
-@tiagoueda
- 
-Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
